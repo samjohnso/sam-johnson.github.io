@@ -1,1 +1,6 @@
+Title: Samuel Johnson
 
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
